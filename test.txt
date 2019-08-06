@@ -1,1 +1,2 @@
 this is the relevent information for how to use the code
+1) Change the file paths of datasets to the respective paths you have saved the data in your device.
